@@ -1,0 +1,1 @@
+Performance of different machine learning models such as logistic regression,support vector machine,naive bayes and k-nearest neighbour on mobile price classification dataset with preprocessing techniques such as feature scaling,feature selection methods,explatory data analysis such as visualizing missing values,plotting heatmap for observing the correlation between variables.
